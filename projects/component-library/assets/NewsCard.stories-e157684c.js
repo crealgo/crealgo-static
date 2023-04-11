@@ -1,0 +1,6 @@
+import{N as i}from"./NewsCard-78b3bee9.js";import{r as p}from"./chance-dbb8c3cf.js";import"./defaultTheme-30e43ede.js";import"./index-2812c619.js";import"./_commonjsHelpers-725317a4.js";import"./emotion-use-insertion-effect-with-fallbacks.browser.esm-125eff8b.js";import"./clsx.m-1229b3e0.js";import"./Profile-bf946036.js";import"./Avatar-ff3aae0b.js";import"./styled-8f152a82.js";import"./useThemeProps-cbfa8a8e.js";import"./createSvgIcon-7fe6f70f.js";import"./generateUtilityClasses-0f0148c0.js";import"./Typography-b4c27325.js";import"./Link-4f63bb94.js";import"./useIsFocusVisible-9b2ab6cf.js";import"./useForkRef-9773819b.js";import"./Stack-71a65dae.js";import"./dividerClasses-41f02103.js";import"./ButtonBase-63fd7aa9.js";import"./emotion-react.browser.esm-18e2571c.js";import"./assertThisInitialized-081f9914.js";import"./inheritsLoose-c82a83d4.js";import"./TransitionGroupContext-d7a6185f.js";import"./ArrowForward-8e17ada2.js";const v={component:i},r={args:{article:p()}};var t,o,m;r.parameters={...r.parameters,docs:{...(t=r.parameters)==null?void 0:t.docs,source:{originalSource:`{
+  args: {
+    article: generateArticle()
+  }
+}`,...(m=(o=r.parameters)==null?void 0:o.docs)==null?void 0:m.source}}};const y=["Default"];export{r as Default,y as __namedExportsOrder,v as default};
+//# sourceMappingURL=NewsCard.stories-e157684c.js.map
