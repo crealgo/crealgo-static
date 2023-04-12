@@ -1,0 +1,7 @@
+import{c as m,n as e}from"./chance-a681a54c.js";import{S as p}from"./SocialMediaBlock-dfe1fd6d.js";import"./jsx-runtime-c2efdcba.js";import"./index-2812c619.js";import"./_commonjsHelpers-725317a4.js";import"./ActionStack-fcf795f3.js";import"./Button-77e6833e.js";import"./ButtonBase-7b58a963.js";import"./excludePropsFromForwarding-6c5743cd.js";import"./styled-899f007b.js";import"./defaultTheme-d0849189.js";import"./emotion-use-insertion-effect-with-fallbacks.browser.esm-125eff8b.js";import"./emotion-styled.browser.esm-fa7ff235.js";import"./emotion-element-6a883da9.browser.esm-be32348c.js";import"./ButtonBase-890a84e2.js";import"./clsx.m-1229b3e0.js";import"./useThemeProps-4c706523.js";import"./generateUtilityClasses-bdae82bf.js";import"./emotion-react.browser.esm-511d925c.js";import"./assertThisInitialized-e784747a.js";import"./useIsFocusVisible-4c83d0fb.js";import"./colors-55af66f1.js";import"./Stack-a3a99865.js";import"./Typography-e61b6c49.js";import"./Text-40b59492.js";import"./Link-3d66d850.js";const z={component:p},t={args:{text:m.twitter(),actions:e()}};var o,r,i;t.parameters={...t.parameters,docs:{...(o=t.parameters)==null?void 0:o.docs,source:{originalSource:`{
+  args: {
+    text: chance.twitter(),
+    actions: generateActions()
+  }
+}`,...(i=(r=t.parameters)==null?void 0:r.docs)==null?void 0:i.source}}};const C=["Default"];export{t as Default,C as __namedExportsOrder,z as default};
+//# sourceMappingURL=SocialMediaBlock.stories-5fdc835d.js.map
