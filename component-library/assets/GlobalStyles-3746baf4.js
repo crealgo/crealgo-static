@@ -1,2 +1,0 @@
-import{_ as n}from"./emotion-use-insertion-effect-with-fallbacks.browser.esm-125eff8b.js";import"./index-2812c619.js";import{b as r}from"./defaultTheme-d0849189.js";import{j as o}from"./jsx-runtime-c2efdcba.js";import{G as a}from"./emotion-react.browser.esm-511d925c.js";function f(t){return t==null||Object.keys(t).length===0}function m(t){const{styles:e,defaultTheme:s={}}=t;return o(a,{styles:typeof e=="function"?l=>e(f(l)?s:l):e})}function b(t){return o(m,n({},t,{defaultTheme:r}))}export{b as G};
-//# sourceMappingURL=GlobalStyles-3746baf4.js.map
