@@ -1,0 +1,6 @@
+import{N as e}from"./NewsCard-ad5bdf71.js";import{e as i}from"./chance-e22ba91b.js";import"./jsx-runtime-c2efdcba.js";import"./index-2812c619.js";import"./_commonjsHelpers-725317a4.js";import"./clsx.m-1229b3e0.js";import"./Profile-ae5d7b1d.js";import"./Avatar-a46b5d44.js";import"./defaultTheme-d0849189.js";import"./emotion-use-insertion-effect-with-fallbacks.browser.esm-125eff8b.js";import"./styled-899f007b.js";import"./emotion-styled.browser.esm-fa7ff235.js";import"./emotion-element-6a883da9.browser.esm-be32348c.js";import"./useThemeProps-4c706523.js";import"./createSvgIcon-4ae69272.js";import"./generateUtilityClasses-bdae82bf.js";import"./Typography-e61b6c49.js";import"./Link-3d66d850.js";import"./useIsFocusVisible-4c83d0fb.js";import"./Stack-a3a99865.js";import"./dividerClasses-3a51a39a.js";import"./ButtonBase-890a84e2.js";import"./emotion-react.browser.esm-511d925c.js";import"./assertThisInitialized-e784747a.js";import"./ArrowForward-2a49aea2.js";const v={component:e},r={args:{article:i()}};var t,o,m;r.parameters={...r.parameters,docs:{...(t=r.parameters)==null?void 0:t.docs,source:{originalSource:`{
+  args: {
+    article: generateArticle()
+  }
+}`,...(m=(o=r.parameters)==null?void 0:o.docs)==null?void 0:m.source}}};const y=["Default"];export{r as Default,y as __namedExportsOrder,v as default};
+//# sourceMappingURL=NewsCard.stories-08891392.js.map
