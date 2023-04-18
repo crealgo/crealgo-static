@@ -1,0 +1,4 @@
+import{j as o}from"./jsx-runtime-c2efdcba.js";import{D as m}from"./DualPhoneDisplay-e1b53420.js";import"./index-2812c619.js";import"./_commonjsHelpers-725317a4.js";import"./Phone-311a24d4.js";import"./styled-e2ebe642.js";import"./defaultTheme-8fe9975f.js";import"./emotion-use-insertion-effect-with-fallbacks.browser.esm-125eff8b.js";import"./emotion-styled.browser.esm-fa7ff235.js";import"./emotion-element-6a883da9.browser.esm-be32348c.js";import"./emotion-react.browser.esm-511d925c.js";const g={component:m,decorators:[a=>o("div",{style:{maxWidth:"40rem"},children:o(a,{})})]},r={args:{}};var t,e,s;r.parameters={...r.parameters,docs:{...(t=r.parameters)==null?void 0:t.docs,source:{originalSource:`{
+  args: {}
+}`,...(s=(e=r.parameters)==null?void 0:e.docs)==null?void 0:s.source}}};const y=["Default"];export{r as Default,y as __namedExportsOrder,g as default};
+//# sourceMappingURL=DualPhoneDisplay.stories-f5381699.js.map
