@@ -1,7 +1,0 @@
-import{c as e,n as m}from"./chance-e22ba91b.js";import{S as p}from"./SocialMediaBlock-43758cba.js";import"./jsx-runtime-c2efdcba.js";import"./index-2812c619.js";import"./_commonjsHelpers-725317a4.js";import"./ActionStack-23545f53.js";import"./Button-ce6e9453.js";import"./clsx.m-1229b3e0.js";import"./excludePropsFromForwarding-6c5743cd.js";import"./ButtonBase-7aae2927.js";import"./styled-e2ebe642.js";import"./defaultTheme-8fe9975f.js";import"./emotion-use-insertion-effect-with-fallbacks.browser.esm-125eff8b.js";import"./emotion-styled.browser.esm-fa7ff235.js";import"./emotion-element-6a883da9.browser.esm-be32348c.js";import"./ButtonBase-7c1dc156.js";import"./useThemeProps-debefb1f.js";import"./generateUtilityClasses-bdae82bf.js";import"./emotion-react.browser.esm-511d925c.js";import"./assertThisInitialized-e784747a.js";import"./useIsFocusVisible-4c83d0fb.js";import"./Stack-bc1126ed.js";import"./Typography-ce4bf3ba.js";import"./Text-ba2fdcf0.js";import"./Link-79621f82.js";const y={component:p},t={args:{text:e.twitter(),actions:m()}};var o,r,i;t.parameters={...t.parameters,docs:{...(o=t.parameters)==null?void 0:o.docs,source:{originalSource:`{
-  args: {
-    text: chance.twitter(),
-    actions: generateActions()
-  }
-}`,...(i=(r=t.parameters)==null?void 0:r.docs)==null?void 0:i.source}}};const z=["Default"];export{t as Default,z as __namedExportsOrder,y as default};
-//# sourceMappingURL=SocialMediaBlock.stories-37f0a5ba.js.map

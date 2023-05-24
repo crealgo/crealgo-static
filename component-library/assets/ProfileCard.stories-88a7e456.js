@@ -1,6 +1,0 @@
-import{j as o}from"./jsx-runtime-c2efdcba.js";import{h as i}from"./chance-e22ba91b.js";import{P as a}from"./ProfileCard-1ad00edd.js";import"./index-2812c619.js";import"./_commonjsHelpers-725317a4.js";import"./Image-cc1fdedc.js";import"./clsx.m-1229b3e0.js";import"./styled-e2ebe642.js";import"./defaultTheme-8fe9975f.js";import"./emotion-use-insertion-effect-with-fallbacks.browser.esm-125eff8b.js";import"./emotion-styled.browser.esm-fa7ff235.js";import"./emotion-element-6a883da9.browser.esm-be32348c.js";import"./emotion-react.browser.esm-511d925c.js";import"./StatusMessage-ae80a29c.js";import"./Typography-ce4bf3ba.js";import"./useThemeProps-debefb1f.js";import"./generateUtilityClasses-bdae82bf.js";import"./Warning-842bfe40.js";import"./createSvgIcon-45dd28ac.js";import"./Business-1487cf7e.js";const W={component:a,decorators:[p=>o("div",{style:{maxWidth:300},children:o(p,{})})]},r={args:{profile:i()}};var t,e,m;r.parameters={...r.parameters,docs:{...(t=r.parameters)==null?void 0:t.docs,source:{originalSource:`{
-  args: {
-    profile: generateEmployee()
-  }
-}`,...(m=(e=r.parameters)==null?void 0:e.docs)==null?void 0:m.source}}};const b=["Default"];export{r as Default,b as __namedExportsOrder,W as default};
-//# sourceMappingURL=ProfileCard.stories-88a7e456.js.map

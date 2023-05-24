@@ -1,0 +1,2 @@
+import{a as s,j as o}from"./jsx-runtime-c2efdcba.js";const a="_logotype_12ax0_1",r="_dots_12ax0_9",t={logotype:a,dots:r},e=()=>s("div",{className:t.logotype,role:"img",title:"Graphix Collab, LLC",children:["GraphixCollab",s("div",{className:t.dots,children:[o("div",{}),o("div",{}),o("div",{}),o("div",{})]})]});try{e.displayName="Logo",e.__docgenInfo={description:"",displayName:"Logo",props:{}}}catch{}export{e as L};
+//# sourceMappingURL=Logo-6b79820b.js.map
